@@ -14,7 +14,7 @@ function First({ navigation }) {
     <TouchableOpacity
       onPress={handleNavigateToTab}
       style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Access the Tab menu, please.</Text>
+      <Text>Access the Tab menu, please click here.</Text>
     </TouchableOpacity>
   );
 }
